@@ -1,0 +1,43 @@
+.gallery
+{
+	opacity: 1;
+	float:left;
+	margin:30px;
+	width:250px;
+	height:400px;
+}
+.gallery img 
+{
+	 width: 100%;
+	 height: auto;
+	 border : solid 2px #152E30;
+}
+.gallery img:hover 
+{
+	 width: 110%;
+	 height: auto;
+	 border : solid 3px #152E30;
+}
+.gallery:hover
+{
+	
+}
+.cntnt 
+{
+	padding: 20px;
+	text-align: left;
+	font-family: arial;
+}
+.titl
+{
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom : 5px;
+	letter-spacing : 4px;
+}
+.desc
+{
+	text-indent: 60px;
+	text-align: justify;
+	font-size: 14px;
+}
